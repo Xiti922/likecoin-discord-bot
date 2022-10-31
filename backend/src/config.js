@@ -23,7 +23,7 @@ export const {
 } = process.env;
 
 export const PREFIX_PAIRS = [
-  ['cosmos', 'like'],
-  ['cosmosvaloper', 'likevaloper'],
-  ['cosmosvalcons', 'likevalcons'],
+  ['cosmos', 'terp'],
+  ['cosmosvaloper', 'terpvaloper'],
+  ['cosmosvalcons', 'terpvalcons'],
 ];
